@@ -97,17 +97,7 @@ Interactive canteen management system with analytics.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prit-Vora&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prit-Vora&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -129,15 +119,7 @@ Interactive canteen management system with analytics.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prit-Vora&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
