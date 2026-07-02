@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Prit Vora</h1>
 
 <h3 align="center">
@@ -6,7 +5,7 @@ MERN Stack Developer | Full Stack Developer | Python Developer | Computer Scienc
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Python+%7C+Django+Developer;React+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Python+Developer;React+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -18,15 +17,17 @@ MERN Stack Developer | Full Stack Developer | Python Developer | Computer Scienc
 🎓 Computer Science Student at **Lok Jagruti University**
 
 🌱 Currently Learning
+
 - Advanced React.js
 - Node.js & Express.js
 - Django
 - Data Structures & Algorithms
 
 🚀 Interested In
+
 - Full Stack Web Development
-- Open Source Contributions
-- AI Powered Applications
+- Open Source
+- AI Applications
 - Cloud Computing
 
 🎯 Goal
@@ -39,33 +40,44 @@ Become a Software Engineer and build scalable applications that solve real-world
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,java,python)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python" />
+</p>
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,react)
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,django)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
 
 ### Database
 
-![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🍔 FoodHub
 
-A responsive food ordering website with a clean and modern UI.
+Responsive Food Ordering Website
 
 **Tech Stack**
+
 - HTML
 - CSS
 - Bootstrap
@@ -75,9 +87,10 @@ A responsive food ordering website with a clean and modern UI.
 
 ## 🏫 Smart Canteen Management System
 
-A canteen management application with an interactive dashboard and analytics.
+Interactive canteen management system with analytics.
 
 **Tech Stack**
+
 - Python
 - Streamlit
 - Matplotlib
@@ -116,13 +129,11 @@ A canteen management application with an interactive dashboard and analytics.
 
 ---
 
-# 🌐 Portfolio
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="https://prit18.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Prit-Vora&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -132,45 +143,36 @@ A canteen management application with an interactive dashboard and analytics.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/prit-vora-86a444370">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Prit-Vora">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="mailto:pritvora16@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/prit-vora-86a444370">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prit-Vora">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://prit18.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prit-Vora&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://komarev.com/ghpvc/?username=Prit-Vora&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
 
 <h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
+⭐ Thanks for visiting my profile! ⭐
 </h3>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Prit-Vora&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-```
